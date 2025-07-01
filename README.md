@@ -7,5 +7,7 @@
 
 ```Sound/Effects/``
 
-4. Let'r rip!!!
+4. Add lua files to server lua scripts.
+
+5. Let'r rip!!!
    
