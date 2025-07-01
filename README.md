@@ -5,7 +5,9 @@
 
 3. Add sound files from MPQ to patch.
 
-```Sound/Effects/``
+```
+Sound/Effects/
+```
 
 4. Add lua files to server lua scripts.
 
