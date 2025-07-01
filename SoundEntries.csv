@@ -1,2 +1,2 @@
 "ID","SoundType","Name","File_1","File_2","File_3","File_4","File_5","File_6","File_7","File_8","File_9","File_10","Freq_1","Freq_2","Freq_3","Freq_4","Freq_5","Freq_6","Freq_7","Freq_8","Freq_9","Freq_10","DirectoryBase","Volumefloat","Flags","MinDistance","DistanceCutoff","EAXDef","SoundEntriesAdvancedID"
-70500,3,"Fart Sound","Fart1.mp3","Fart2.mp3","Fart3.mp3","Fart4.mp3","Fart5.mp3","Fart6.mp3","Fart7.mp3","Fart8.mp3","","",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,2,1.0,0,10,100,0,0
+"70500","3","Fart Sound","Fart1.mp3","Fart2.mp3","Fart3.mp3","Fart4.mp3","Fart5.mp3","Fart6.mp3","Fart7.mp3","Fart8.mp3","","","1","1","1","1","1","1","1","1","0","0","Sound\Effects","1.0","0","10","100","0","0"
